@@ -1,3 +1,4 @@
+// Place in 'views' folder
 <!doctype html>
 <html>
 <head>
