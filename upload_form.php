@@ -11,7 +11,7 @@
 	<input type="text" name="name" size="20" />
 		<br><br>
 	<input type="email" name="email" size="20" />
-	<input type="submit" value="upload" />
+	<input type="submit" value="upload" /> 
 </form>
 </body>
 </html>
