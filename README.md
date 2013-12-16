@@ -9,7 +9,9 @@ Currently, I have it set up where the user can only submit Name, Email and Docum
 
 If you wish to customize the design of the form to match your overall look, you can add your custom code to 'upload_form.php' or 'upload_success'.php. Alternatively, you may also use your templates for Header and Footer by loading them in the controller file 'upload.php' by modifying the code starting on line 13:
 
+
 // Example:
+
 // $this->load->view('templates/header');
 // $this->load->view('upload_form', array('error' => ' ' ));
 // $this->load->view('templates/footer');
